@@ -9,4 +9,7 @@ def divide(a, b):
         return a / b
     return "Error: Division by zero"
 
+def multiply(a, b):
+    return a * b
+
 print("Calculator v1.0")
